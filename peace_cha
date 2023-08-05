@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+	<body>
+		<header>
+			<div class="caixa">
+				<h1><img src=""></h1>
+
+				<nav>
+					<ul>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="produtos.html">Produtos</a></li>
+						<li><a href="contato.html">Contato</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+
+		<img class="banner" src="">
+
+		<main>
+			<section class="principal">
+				<h2 class="titulo-principal">Sobre a Peace Chá</h2>
+
+				<img class="A origem." src="" alt="A origem.">
+
+				<p>Em um pitoresco recanto da encantadora cidade de Serenópolis, erguia-se um edifício de aparência tranquila e acolhedora. Seu nome, "Peace Chá", era mais do que apenas uma designação; era uma promessa de momentos de serenidade e harmonia para aqueles que atravessassem suas portas.</p>
+
+				<p> Fundada por Sofia Torres, uma apaixonada conhecedora das sutilezas das folhas de chá e suas propriedades benéficas, a Peace Chá rapidamente se tornou um refúgio para os amantes dessa milenar infusão. Com sua visão de oferecer não apenas bebidas, mas também experiências transformadoras, Sofia buscou criar um espaço que nutrisse a mente e o espírito, tanto quanto o corpo.</p>
+
+				<p> Ao adentrar na Peace Chá, os visitantes eram envolvidos por uma atmosfera de serenidade. As paredes eram adornadas com tons suaves de verde e dourado, enquanto estantes de madeira exibiam uma ampla variedade de chás, cada um com uma história e uma finalidade únicas. Um aroma acolhedor pairava no ar, convidando todos a desacelerar e desfrutar de um momento de paz. </p>
+
+				<p> Uma equipe que se dedicaram a isso, não eram apenas entusiastas do chá, mas também mestres na arte da preparação. Cada xícara era meticulosamente preparada, com as folhas selecionadas à mão e a água aquecida com precisão. Os clientes eram convidados a explorar os diferentes sabores e aromas, orientados por uma equipe apaixonada que compartilhava histórias sobre a origem e as propriedades de cada chá. </p>
+
+				<p> Além das experiências na loja, a Peace Chá também promovia workshops e eventos, nos quais os participantes podiam mergulhar ainda mais fundo no mundo do chá. Desde cerimônias tradicionais até aulas sobre os benefícios terapêuticos das diferentes infusões, a empresa buscava disseminar conhecimento e proporcionar momentos de introspecção e relaxamento.</p>
+
+				<p> À medida que as pessoas descobriam a Peace Chá, não apenas se tornavam clientes regulares, mas também parte de uma comunidade unida por um amor compartilhado pelo chá e pelo desejo de encontrar paz e equilíbrio em meio à agitação do mundo moderno. A empresa, mais do que um simples estabelecimento comercial, tornou-se um refúgio acolhedor onde a tranquilidade reinava, e as almas cansadas podiam encontrar um momento de descanso verdadeiro - uma xícara de paz em um mundo agitado.</p>
+
+				<p id="missao"><em>Nossa missão é: <strong>"Proporcionar um tipo de bebida refrescante e de facil acesso para nossos clientes em todo o mundo"</strong>.</em></p>
+
+			</section>
+
+			<section class="mapa">
+				<h3 class="titulo-principal">Nossos produtos sempre estarão proximos a você</h3>
+				<p>Nossos produtos estão sempre pertinho de sua casa, como por exemplo: nos mercados.</p>
+
+				<div class="mapa-conteudo">
+					<iframe src="https://www.google.com.br/maps/place/Mandirituba,+PR,+83800-000/@-25.7789172,-49.3260541,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNwhupPdCdjkLAmlLg_ntLrgjbalvnw6JD1Pemi!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNwhupPdCdjkLAmlLg_ntLrgjbalvnw6JD1Pemi%3Dw86-h191-k-no!7i1800!8i4000!4m7!3m6!1s0x94dc52953587b33b:0xae53f616abb6ae19!8m2!3d-25.7789172!4d-49.3260541!10e5!16s%2Fg%2F1yy3vllh9?entry=ttu" width="100%" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+				</div>
+			</section>
+
+			<section class="beneficios">
+				<h3 class="titulo-principal">Benefícios</h3>
+
+				<div class="conteudo-beneficios">
+					<ul class="lista-beneficios">
+						<li class="itens">Acalma a mente</li>
+						<li class="itens">Melhora a qualidade do sono</li>
+						<li class="itens">Diminui os níveis de colesterol no sangue</li>
+						<li class="itens">Ajuda a desintoxicar o organismo</li>
+						<li class="itens">Reduz o risco de câncer</li>
+						<li class="itens">Controla a pressão arterial</li>
+						<li class="itens">Reduz as chances de problemas cardiovasculares</li>
+						<li class="itens">Auxilia no processo de emagrecimento</li>
+					</ul><img src="" class="imagem-beneficios">
+				</div>
+
+				<div class="video">
+					<iframe width="100%" height="315" src="https://www.youtube.com/watch?v=Z977oI0R12A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</section>
+		</main>
+
+		<footer>
+			<img src="">
+			<p class="copyright">&copy; Copyright Peace Chá - 1983</p>
+		</footer>
+	</body>
+</html>
